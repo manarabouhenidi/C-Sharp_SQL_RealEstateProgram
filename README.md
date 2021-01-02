@@ -1,0 +1,2 @@
+# C-_SQL_RealEstateProgram
+During my undergraduate degree I came up with the idea of developing a program for a Real Estate. My group and I have developed for the Files and Databases course using C# and SQL. This projects was divided for each of us to work on two classes. My work mainly was focused on properties, Agents. However, I also was in charge with combined the code, clean it, test it, created the design of the pages and the deployment.
