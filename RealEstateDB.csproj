@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D8B46FE-EB8E-408D-AE4D-4A221EBA21BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RealEstateDB</RootNamespace>
+    <AssemblyName>RealEstateDB</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add an Agent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add an Agent.Designer.cs">
+      <DependentUpon>Add an Agent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddBuyerSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBuyerSeller.Designer.cs">
+      <DependentUpon>AddBuyerSeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProperty.Designer.cs">
+      <DependentUpon>AddProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit Agent .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit Agent .Designer.cs">
+      <DependentUpon>Edit Agent .cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditBuyerSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBuyerSeller.Designer.cs">
+      <DependentUpon>EditBuyerSeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectedAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectedAgent.Designer.cs">
+      <DependentUpon>SelectedAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAgents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAgents.Designer.cs">
+      <DependentUpon>ViewAgents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProperty.Designer.cs">
+      <DependentUpon>UpdateProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewTransaction.Designer.cs">
+      <DependentUpon>NewTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="SelectedBuyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectedBuyer.Designer.cs">
+      <DependentUpon>SelectedBuyer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectedProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectedProperty.Designer.cs">
+      <DependentUpon>SelectedProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectedSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectedSeller.Designer.cs">
+      <DependentUpon>SelectedSeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectedTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectedTransaction.Designer.cs">
+      <DependentUpon>SelectedTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlConnectionCommand.cs" />
+    <Compile Include="ViewBuyerSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewBuyerSeller.Designer.cs">
+      <DependentUpon>ViewBuyerSeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewFinance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewFinance.Designer.cs">
+      <DependentUpon>ViewFinance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProps.Designer.cs">
+      <DependentUpon>ViewProps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTransactions.Designer.cs">
+      <DependentUpon>ViewTransactions.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add an Agent.resx">
+      <DependentUpon>Add an Agent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddBuyerSeller.resx">
+      <DependentUpon>AddBuyerSeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProperty.resx">
+      <DependentUpon>AddProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit Agent .resx">
+      <DependentUpon>Edit Agent .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBuyerSeller.resx">
+      <DependentUpon>EditBuyerSeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectedAgent.resx">
+      <DependentUpon>SelectedAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateTransaction.resx">
+      <DependentUpon>UpdateTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAgents.resx">
+      <DependentUpon>ViewAgents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProperty.resx">
+      <DependentUpon>UpdateProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTransaction.resx">
+      <DependentUpon>NewTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectedBuyer.resx">
+      <DependentUpon>SelectedBuyer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectedProperty.resx">
+      <DependentUpon>SelectedProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectedSeller.resx">
+      <DependentUpon>SelectedSeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectedTransaction.resx">
+      <DependentUpon>SelectedTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewBuyerSeller.resx">
+      <DependentUpon>ViewBuyerSeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewFinance.resx">
+      <DependentUpon>ViewFinance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProps.resx">
+      <DependentUpon>ViewProps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewTransactions.resx">
+      <DependentUpon>ViewTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoMakr_9DHNgY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoMakr_4PfyYk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoMakr_81a8AV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\props.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statstics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buyer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\736960.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real_estate_33-512.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

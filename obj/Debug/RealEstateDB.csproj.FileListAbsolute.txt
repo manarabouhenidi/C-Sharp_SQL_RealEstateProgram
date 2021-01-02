@@ -1,0 +1,257 @@
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.cache
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.csprojAssemblyReference.cache
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Jose's PC/source/repos/RealEstateDB/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Manar Version/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+C:/Users/Manar/Desktop/Manar version on 17/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.EditBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateTransaction.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.EditBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateTransaction.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Combined/Manar version on 19 new/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.EditBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateTransaction.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Combined - Copy/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.EditBuyerSeller.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateTransaction.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojResolveAssemblyReference.cache
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.EditBuyerSeller.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateTransaction.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.Cache
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+C:/Users/Manar/Desktop/File and Data Base Project/Latest version/Manar version on 19 at 9/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe.config
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.exe
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/bin/Debug/RealEstateDB.pdb
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csprojAssemblyReference.cache
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Add_an_Agent.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddBuyerSeller.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.AddProperty.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Edit_Agent.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.EditBuyerSeller.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedAgent.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateTransaction.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewAgents.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.UpdateProperty.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.HomePage.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.NewTransaction.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.Properties.Resources.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedBuyer.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedProperty.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedSeller.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.SelectedTransaction.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewBuyerSeller.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewFinance.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewProps.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.ViewTransactions.resources
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.GenerateResource.cache
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.csproj.CoreCompileInputs.cache
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.exe
+/Users/manar/Desktop/SRDBfinal/RealEstateDB/obj/Debug/RealEstateDB.pdb
